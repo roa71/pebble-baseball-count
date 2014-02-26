@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "1825684b-7376-4683-bf97-5993ca649883",
+    "appKeys": {},
+    "longName": "Baseball Count",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Baseball Count",
+    "companyName": "roa71",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
